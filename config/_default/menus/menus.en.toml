@@ -17,12 +17,6 @@
 #   url = "/docs/lorem/"
 
 [[main]]
-  name = "Docs"
-  url = "/docs/guides/example-guide/"
-# url = "/docs/1.0/prologue/introduction/"
-  weight = 10
-
-[[main]]
 name = "Big Data & Databases"
 url = "/big-data-and-databases/"
 weight = 1
