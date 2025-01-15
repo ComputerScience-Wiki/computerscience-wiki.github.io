@@ -1,9 +1,9 @@
 ---
-title: "Build Tools"
+title: "Gradle (Java)"
 description: ""
 summary: ""
-date: 2025-01-13T22:49:19Z
-lastmod: 2025-01-13T22:49:19Z
+date: 2025-01-13T15:41:47Z
+lastmod: 2025-01-13T15:41:47Z
 draft: false
 sidebar:
   collapsed: true

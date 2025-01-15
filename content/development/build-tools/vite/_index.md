@@ -1,9 +1,9 @@
 ---
-title: "Build Tools"
+title: "Vite (JS)"
 description: ""
 summary: ""
-date: 2025-01-13T22:49:19Z
-lastmod: 2025-01-13T22:49:19Z
+date: 2025-01-13T15:41:47Z
+lastmod: 2025-01-13T15:41:47Z
 draft: false
 sidebar:
   collapsed: true

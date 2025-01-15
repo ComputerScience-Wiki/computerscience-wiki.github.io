@@ -38,7 +38,7 @@ weight = 4
 
 [[main]]
 name = "Development"
-url = "/development/"
+url = "/development/introduction"
 weight = 5
 
 # [[social]]

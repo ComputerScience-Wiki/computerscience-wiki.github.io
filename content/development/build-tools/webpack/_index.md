@@ -1,12 +1,12 @@
 ---
-title: "Ipsum"
+title: "Webpack (JS)"
 description: ""
 summary: ""
-date: 2025-01-13T22:49:19Z
-lastmod: 2025-01-13T22:49:19Z
+date: 2025-01-13T15:41:47Z
+lastmod: 2025-01-13T15:41:47Z
 draft: false
-weight: 100
-toc: true
+sidebar:
+  collapsed: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
