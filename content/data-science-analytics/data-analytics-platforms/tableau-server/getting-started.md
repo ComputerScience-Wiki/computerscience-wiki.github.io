@@ -1,12 +1,12 @@
 ---
-title: "Ipsum"
+title: "Getting Started"
 description: ""
 summary: ""
-date: 2025-01-11T16:06:28Z
-lastmod: 2025-01-11T16:06:28Z
+date: 2025-01-13T15:41:34Z
+lastmod: 2025-01-13T15:41:34Z
 draft: false
-weight: 100
-toc: true
+sidebar:
+  collapsed: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)

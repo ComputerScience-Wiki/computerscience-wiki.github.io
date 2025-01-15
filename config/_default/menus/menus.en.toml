@@ -33,7 +33,7 @@ weight = 3
 
 [[main]]
 name = "Data Science & Analytics"
-url = "/data-science-analytics/"
+url = "/data-science-analytics/introduction"
 weight = 4
 
 [[main]]
