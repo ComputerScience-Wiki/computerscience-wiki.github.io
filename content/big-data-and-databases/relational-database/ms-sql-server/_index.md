@@ -1,12 +1,12 @@
 ---
-title: "Ipsum"
+title: "MS SQL Server"
 description: ""
 summary: ""
-date: 2025-01-11T16:06:04Z
-lastmod: 2025-01-11T16:06:04Z
+date: 2025-01-13T15:41:47Z
+lastmod: 2025-01-13T15:41:47Z
 draft: false
-weight: 100
-toc: true
+sidebar:
+  collapsed: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)

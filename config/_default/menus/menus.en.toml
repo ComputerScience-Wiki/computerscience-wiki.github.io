@@ -18,7 +18,7 @@
 
 [[main]]
 name = "Big Data & Databases"
-url = "/big-data-and-databases/"
+url = "/big-data-and-databases/introduction"
 weight = 1
 
 [[main]]
