@@ -28,7 +28,7 @@ weight = 2
 
 [[main]]
 name = "Cybersecurity"
-url = "/cybersecurity/"
+url = "/cybersecurity/introduction"
 weight = 3
 
 [[main]]
