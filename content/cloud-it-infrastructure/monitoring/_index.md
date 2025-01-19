@@ -1,10 +1,12 @@
 ---
-title: "Cloud IT Infrastructure"
+title: "Monitoring"
 description: ""
 summary: ""
-date: 2025-01-11T16:06:12Z
-lastmod: 2025-01-11T16:06:12Z
+date: 2025-01-16T12:56:27Z
+lastmod: 2025-01-16T12:56:27Z
 draft: false
+sidebar:
+  collapsed: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
