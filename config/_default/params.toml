@@ -8,7 +8,8 @@ mainSections = ["big-data-and-databases",
                 "cloud-it-infrastructure",
                 "cybersecurity",
                 "data-science-analytics",
-                "development"]
+                "development",
+                "roadmaps"]
 
 # [social]
 #   twitter = "getdoks"
@@ -52,7 +53,8 @@ mainSections = ["big-data-and-databases",
                 "cloud-it-infrastructure",
                 "cybersecurity",
                 "data-science-analytics",
-                "development"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
+                "development",
+                "roadmaps"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = false # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = true # true (default) or false
